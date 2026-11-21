@@ -63,5 +63,6 @@
   },
   "seo": {
     "index": true
-  }
+  },
+  "webring": { "enabled": true }
 }
